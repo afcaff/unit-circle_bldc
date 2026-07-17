@@ -1,4 +1,4 @@
-# Gimbal Motor Angle Dial — SimpleFOC + Round GC9A01
+# Gimbal Motor Angle Dial: SimpleFOC + Round TFT LCD
  
 Closed-loop position control of a hollow-shaft gimbal motor, with a live **unit circle** on a round LCD. Send a target angle over serial in multiples of π, and the motor drives to it while a needle on the round display matches angle with a digital readout in π units.
 
